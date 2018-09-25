@@ -1,11 +1,16 @@
 _repo: The-Memoirs-of-Charles-H-Cramp_57081
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57081-h/images/cover.jpg
 creator:
   author:
     agent_name: Buell, Augustus C.
     gutenberg_agent_id: '49183'
     url: http://www.gutenberg.org/2009/agents/49183
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57081#The-Memoirs-of-Charles-H-Cramp
 gutenberg_issued: '2018-05-03'
 gutenberg_type: Text
 identifiers:
